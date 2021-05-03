@@ -1,7 +1,5 @@
 #!/bin/bash
 BLUEZ_VER=5.54
-echo "Installing bluez dependencies"
-sudo apt-get install libdbus-1-dev libglib2.0-dev libudev-dev libical-dev libreadline-dev -y
 
 echo "Downloading bluez version $BLUEZ_VER"
 wget www.kernel.org/pub/linux/bluetooth/bluez-$BLUEZ_VER.tar.xz
