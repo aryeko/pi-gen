@@ -1,0 +1,11 @@
+export IMG_NAME=hisense-rpi-hub
+export RELEASE=buster
+export DEPLOY_ZIP=1
+export LOCALE_DEFAULT=en_US.UTF-8
+export TARGET_HOSTNAME=hisense-rpi-hub
+export KEYBOARD_KEYMAP=us
+export KEYBOARD_LAYOUT="English (US)"
+export TIMEZONE_DEFAULT=America/New_York
+export FIRST_USER_NAME=hisense
+export FIRST_USER_PASS=hs2019!!
+export ENABLE_SSH=1
